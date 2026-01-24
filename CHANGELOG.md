@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.2] - 2025-01-24
+
+### Bug Fixes
+- Fixed tray context menu appearing in wrong position on high-DPI displays
+- Fixed main window being cut off on scaled displays (e.g., 4K at 300% scaling)
+
 ## [1.0.1] - 2025-01-23
 
 ### Improvements
